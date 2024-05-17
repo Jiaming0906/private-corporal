@@ -1,0 +1,9 @@
+.env
+node_modules
+yet_to_implement
+package-lock.json
+package.json
+test.js
+things-to-note.txt
+database.sqlite
+images

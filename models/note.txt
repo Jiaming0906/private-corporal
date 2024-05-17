@@ -1,0 +1,21 @@
+team.js
+TeamBet 
+.msgId = str of msg id
+.team1 = str name of team1
+.team2 = str name of team2
+
+user.js
+UserDiscord
+.id = str of user id
+.value = float of current value, default = 1000.0
+
+count.js
+TeamCount
+.msgId = str of msg id
+.team1count = int of count
+.team2count = int of count
+
+bet.js
+UserBet
+.id = str of user id
+.m1 = "nnnnnnnnnnnnnn"
